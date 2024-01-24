@@ -1,0 +1,1 @@
+This projct has a partially completed module for the psychological advice chatbot, where the live video input is working, but the camera quality is too low to be used to identify and live targets.
